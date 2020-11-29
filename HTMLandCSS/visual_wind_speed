@@ -72,12 +72,12 @@
       <!-- left side -->
       <div class="col col-12 col-md-8 divbdy">
         <br>
-        <h1>Cloudiness</h1>
+        <h1>Wind Speed</h1>
         <hr>
-        <a href="visualization-3.html"><img src="images/Fig3.png" alt="Latitude vs. Temperature"></a>
+        <a href="visualization-4.html"><img src="images/Fig4.png" alt="Latitude vs. Temperature"></a>
 
         <p>
-          Cloudiness is not correlated to lattitude as shown int he graph.
+          Wind speed tends to strong as one moves away from the equator (0 Deg. Latitude).
         </p>
         <hr>
       </div>
@@ -95,10 +95,10 @@
             <a href="visualization-2.html"><img src="images/Fig2.png" alt="Latitude vs. Humidity"></a>
           </div>
           <div class="col col-3 col-md-6">
-            <a href="visualization-3.html"><img src="images/Fig3.png" alt="Latitude vs. Cloudiness" id="imgsel"></a>
+            <a href="visualization-3.html"><img src="images/Fig3.png" alt="Latitude vs. Cloudiness"></a>
           </div>
           <div class="col col-3 col-md-6">
-            <a href="visualization-4.html"><img src="images/Fig4.png" alt="Latitude vs. Wind Speed"></a>
+            <a href="visualization-4.html"><img src="images/Fig4.png" alt="Latitude vs. Wind Speed" id="imgsel"></a>
           </div>
         </div>
       </div>
